@@ -1,6 +1,8 @@
-# golings 🐹
-@TODO a lot... The framework exists, but the exercises are not very robust or plentiful yet. More to come.
 
+# Note to users
+I built this mostly as practice for some other projects before realizing there were a lot of competing options under the same name. I won't be maintaining this and you should really use a different one anyhow. 
+
+# golings 🐹
 Small exercises to get you used to reading and writing Go code - Recommended in parallel to reading [the official Go tour](https://go.dev/tour) and [Effective Go](https://go.dev/doc/effective_go)
 
 ## Getting Started
